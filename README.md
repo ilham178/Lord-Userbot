@@ -2,28 +2,28 @@
 
 
 <p align="center">
-  <a href="https://github.com/Zora24/Lord-Userbot/fork">
+  <a href="https://github.com/ilham178/ILhamuserbot">
     <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
+  <a href="https://github.com/ilham178/ILhamuserbot">
     <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+# ILham Userbot
+![ILham Userbot Logo](https://telegra.ph/file/e569eea9522331afc15fc.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
 ### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+Repo Yang Dibuat [ILham Mansiezz](https://t.me/bismillahselaluadaa) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+
 
 ## Bagaimana Cara Deploy?
 
