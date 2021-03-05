@@ -55,8 +55,8 @@ async def _(event):
             "🌓",
             "🌔",
             "🌕",
-            f"🌖"]
-
+            "🌖"
+            f"😁]
         for i in animation_ttl:
 
             await asyncio.sleep(animation_interval)
