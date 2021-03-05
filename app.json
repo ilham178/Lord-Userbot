@@ -1,6 +1,6 @@
 {
-  "name": "Lord-Userbot",
-  "description": "[Lord-Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "ILham-Userbot",
+  "description": "[ILham-Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Zora24/Lord-Userbot",
-  "telegram": "https://t.me/liualvinas",
-  "success_url": "https://t.me/liualvinasmahaputra",
+  "repository": "https://github.com/ilham178/ILhamuserbot",
+  "telegram": "https://t.me/bismillahselaluadaa",
+  "success_url": "https://t.me/bismillahselaluadaa",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -151,7 +151,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "LORD-USERBOT",
+      "value": "ILham-USERBOT",
       "required": false
     },
     "ALIVE_NAME": {
