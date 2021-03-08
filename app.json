@@ -1,7 +1,7 @@
 {
-  "name": "GabutC-UBot",
-  "description": "[GabutC-UBot] USERBOT YANG DIKHUSUSKAN UNTUK KEPUASAN DALAM MENGGUNAKAN TELEGRAM.",
-  "logo": "https://telegra.ph/file/971320cca78b5ed555eee.jpg",
+  "name": "ILham UserBot",
+  "description": "[ILham UserBot] USERBOT YANG DIKHUSUSKAN UNTUK KEPUASAN DALAM MENGGUNAKAN TELEGRAM.",
+  "logo": "https://telegra.ph/file/e569eea9522331afc15fc.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Ependelope53/GabutC-UBot",
-  "telegram": "https://t.me/AkuUserBot",
-  "success_url": "https://t.me/kutipankataaa",
+  "repository": "https://github.com/ilham178/ILhamuserbot",
+  "telegram": "https://t.me/bismillahselaluadaa",
+  "success_url": "https://t.me/bismillahselaluadaa",
   "stack": "container",
   "env": {
     "API_KEY": {
